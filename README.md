@@ -3,6 +3,7 @@
 
 Sou estudante de **Design Gráfico** na Universidade Feevale e tenho um grande interesse por **Desenvolvimento Front-End**. Minha jornada combina criatividade e tecnologia, e busco aprimorar minhas habilidades tanto no design quanto na programação para criar interfaces elegantes e funcionais.
 
+
 - 💻 Atualmente, estou estudando **HTML, CSS, JavaScript e frameworks modernos** para me aprofundar no desenvolvimento web.
 - 🎨 Tenho experiência com ferramentas como **Photoshop, Illustrator e InDesign**.
 - 📚 Além disso, já atuei em áreas como **almoxarifado no setor calçadista** e **suporte ao cliente para uma marca de luxo**, desenvolvendo habilidades de organização, comunicação e atendimento.
